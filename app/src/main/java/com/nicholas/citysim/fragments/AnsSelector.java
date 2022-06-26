@@ -29,10 +29,7 @@ import com.nicholas.funwithflags.R;
  * Author: Nicholas Klvana-Hooper
  * -----
  * Last Modified: Sunday, 27th Setpember 2020
- * Modified By: Nicholas Klvana-Hooper
- * -----
- * Purpose: Is a fragment that does all of the tasks to do with answering a question in the game
- * Reference:
+
  */
 
 public class AnsSelector extends Fragment {

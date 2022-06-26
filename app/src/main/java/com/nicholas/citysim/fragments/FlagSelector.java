@@ -23,13 +23,10 @@ import java.util.List;
 
 /*
  * File: FlagSelector.java
- * File Created: Saturday, 26th Setpember 2020
- * Author: Nicholas Klvana-Hooper
- * -----
+
  * Last Modified: Sunday, 27th Setpember 2020
  * Modified By: Nicholas Klvana-Hooper
- * -----
- * Purpose: Is a fragment that does all of the tasks to do with choosing a flag from a grid
+ * ----- do with choosing a flag from a grid
  * Reference: Grid layout structure is based off Lecture 2 notes
  */
 

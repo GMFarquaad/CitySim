@@ -25,9 +25,7 @@ import java.util.ArrayList;
 import java.util.List;
 /*------------------------------------------------------------
 * File: SelectorFragment.java
-* Author: Nicholas Klvana-Hooper
-* Created: 10/10/2020
-* Modified: 7/11/2020
+
 * Purpose: Contains fragment for the selector
  -------------------------------------------------------------*/
 

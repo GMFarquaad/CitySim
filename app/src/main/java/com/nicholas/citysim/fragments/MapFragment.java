@@ -17,8 +17,7 @@ import com.nicholas.citysim.model.MapElement;
 import com.nicholas.citysim.model.Structure;
 /*------------------------------------------------------------
 * File: MapGrid.java
-* Author: Nicholas Klvana-Hooper
-* Created: 8/10/2020
+* Aut
 * Modified: 13/11/2020
 * Purpose: Contains fragment for showing game grid
  -------------------------------------------------------------*/

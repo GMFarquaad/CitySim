@@ -31,13 +31,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import javax.net.ssl.HttpsURLConnection;
-/*------------------------------------------------------------
-* File: GameActivity.java
-* Author: Nicholas Klvana-Hooper
-* Created: 8/10/2020
-* Modified: 13/11/2020
-* Purpose: Game activity, contains all game functionality
- -------------------------------------------------------------*/
+
 
 public class GameActivity extends AppCompatActivity {
     GameData gData;

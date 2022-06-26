@@ -13,7 +13,7 @@ import com.nicholas.citysim.model.GameData;
 * Author: Nicholas Klvana-Hooper
 * Created: 8/10/2020
 * Modified: 13/11/2020
-* Purpose: Main activity, shows the title screen of game
+* Purpose: Main activity, shows the title screen of game. Such a good idea
  -------------------------------------------------------------*/
 
 public class MainActivity extends AppCompatActivity {

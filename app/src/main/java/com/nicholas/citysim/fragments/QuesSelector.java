@@ -25,10 +25,7 @@ import java.util.List;
  * File: QuesSelector.java
  * File Created: Friday, 25th Setpember 2020
  * Author: Nicholas Klvana-Hooper
- * -----
- * Last Modified: Sunday, 27th Setpember 2020
- * Modified By: Nicholas Klvana-Hooper
- * -----
+
  * Purpose: Is a fragment that does all of the tasks to do with questions selection
  * of the game
  * Reference: Grid layout structure is based off Lecture 2 notes
